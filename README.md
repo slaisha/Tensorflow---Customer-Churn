@@ -1,4 +1,4 @@
-# 📊[Link to my notebook](https://github.com/slaisha/Tensorflow---Customer-Churn/blob/main/Tensorflow_Churn.ipynb)
+# 📊 [Link to my notebook](https://github.com/slaisha/Tensorflow---Customer-Churn/blob/main/Tensorflow_Churn.ipynb)
 
 ## Tensorflow---Customer-Churn
 
